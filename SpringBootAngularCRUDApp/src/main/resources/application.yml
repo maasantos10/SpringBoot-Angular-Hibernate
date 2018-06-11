@@ -23,7 +23,7 @@ spring:
   profiles: default
 datasource:
   sampleapp:
-    url: jdbc:mysql://localhost:3306/websystique
+    url: jdbc:mysql://localhost:3306/masangularcruddb
     username: root
     password: root
     driverClassName: com.mysql.jdbc.Driver
